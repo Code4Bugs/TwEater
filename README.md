@@ -59,6 +59,3 @@ The example values for the 9 parameters is as follows, which can be seen from fi
   - `within`: has to be used together with `near`, specifying the radius of the location, **default ""**.
   - `lang`: specify the language of the tweets you need, only English and French are suppored at the moment, **default "en"**.
 
-## [MuTuX](http://www.mutux.com "MuTux's Home")
-For the benefits of learners or researchers, don't abuse it!
-Have fun!
